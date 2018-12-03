@@ -1,6 +1,6 @@
 # DSP_Basics
-These are some basic examples of the DSP TMS320C6713;
-  Every example is in branch;
+# These are some basic examples of the DSP TMS320C6713;
+  Every example is in branch; /n
  Master ==> Signal Generation; 
  Signal_Aquisition ==> Signal Aquisition;
  FIR_Algo1 ==> FIR Filter Algorithme 1;
