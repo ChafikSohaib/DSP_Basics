@@ -1,6 +1,6 @@
 # DSP_Basics
 These are some basic examples of the DSP TMS320C6713:
-  (Every example is in diffrent branch) 
+  (Every example is in a diffrent branch) 
   
  Master ==> Signal Generation. 
  
